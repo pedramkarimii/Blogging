@@ -281,22 +281,7 @@ if __name__ == "__main__":
     try:
         while True:
 
-            print("\nOptions:")
-            print("1.Add Post")
-            print("2.Delete Post by Title")
-            print("3.Delete Post by Author")
-            print("4.Search Post by Title")
-            print("5.Search Post by Author")
-            print("6.Update Post Content")
-            print("7.Filter Posts by Title")
-            print("8.Filter Posts by Author")
-            print("9.View User Posts by Author")
-            print("10.View User Posts by Title")
-            print("11.Print All Posts")
-            print("12.Print Updated Posts")
-            print("13.Return Deleted Posts")
-            print("14.Print Deleted Posts")
-            print("15.Exit")
+            
 
             choice = input("Enter your choice: ")
 
