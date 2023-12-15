@@ -1,0 +1,19 @@
+{
+  "user_id":{
+    "0":null
+  },
+  "product_type":{
+    "0":"1"
+  },
+  "count":{
+    "0":1
+  },
+  "product_details":{
+    "0":{
+      "product_name":"shirt",
+      "total_price":30,
+      "total_with_commission":36.0,
+      "discount":"0%"
+    }
+  }
+}
